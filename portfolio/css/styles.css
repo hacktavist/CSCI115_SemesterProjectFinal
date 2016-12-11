@@ -1,0 +1,31 @@
+body {
+	background-color: #59bcd9;
+}
+
+img {
+	display: block;
+	margin: auto;
+	width: 30%;
+}
+
+.name {
+	text-align: center;
+	font-size: 5em;
+	font-family: 'Molle', cursive;
+}
+
+.intro {
+	text-align: center;
+	font-size: 4em;
+	font-family: 'Molle', cursive;
+}
+
+.aboutme {
+	text-align: center;
+	font-size: 1.2em;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.img-text {
+	text-align: center;
+}
