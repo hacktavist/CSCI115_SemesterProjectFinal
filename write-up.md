@@ -1,0 +1,10 @@
+My experience with this course may have been easier than most of my classmates as I have done web design in a couple of startups
+in town. The workload for the course was a bit less than my other classes, but that was because I did not do any of the required readings in the course; I mainly skimmed content in chapters as I knew a lot of it. Even though I knew a lot of the content, I still pushed myself in going to new areas or areas where I wasn't as comfortable with the content and a lot of this fell under the css category.
+
+I really enjoyed the potential of the piazza site. I think the benefits of it could out perform OAKS in all areas. Discussions are easier to perform in piazza than in OAKS (this knowledge comes from another class I had to do discussions in). Piazza also seems to have functionality for submitting assignments which could replace that part of OAKS.
+
+For the web design projects I mainly encountered issues in the javascript library I used for the photo site due to having to learn the learn the library in a short amount of time. For the css grid framework site my biggest issue was lack of creativity and poor planning. Maybe if these assignments were switched in order I would have had some more creative ideas, but that isn't really an excuse as in the working world it wouldn't matter.
+
+As a side note about GitHub, I love using it and think it is a valuable skill for anybody going into the field. It might help introducing it earlier in the course when the class isn't worrying about the next project site that is due. Git will always be a daunting task to a new developer and having a bit of room to breathe and work with it could potentially help the class. It is something that will most likely be required in a professional setting so getting started early would be helpful. I remember the fears of learning it in a fast paced work environment.
+
+But overall I believe the course was well done on such short notice and it being the first course you have had to put together.
